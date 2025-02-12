@@ -56,7 +56,7 @@ mystery1 = np.array([
      [np.inf, np.inf, np.inf, np.inf, np.inf, np.inf, 24576.],
      [np.inf, np.inf, np.inf, np.inf, np.inf, np.inf, np.inf],
      [np.inf, np.inf, np.inf, np.inf, -np.inf, -52640., np.inf]]
-])
+], dtype=np.float16)
 
 mystery2 = np.array([481, 18, 308, 13, 652, 391, 63, 62, 353, 111, 805, 251, 36, 544, 600, 799, 283, 880,
  470, 599, 814, 507, 242, 650, 180, 860, 979, 298, 621, 197, 572, 976, 905, 427, 119, 905,
